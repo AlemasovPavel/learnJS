@@ -19,5 +19,4 @@ const questionNumber4 = prompt('Насколько оцените его?', '');
 personalMovieDB.movies[questionNumber1] = questionNumber2;
 personalMovieDB.movies[questionNumber3] = questionNumber4;
 
-console.log(personalMovieDB.movies[questionNumber1]);
-console.log(personalMovieDB.movies[questionNumber3]);
+console.log(personalMovieDB);
