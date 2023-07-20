@@ -1,6 +1,4 @@
 "use strict";
 
-// alert(2);
-// let result = confirm("Are you here?")
-
-console.log(typeof(null))
+let numberOfFilms = prompt("Сколько фильмов вы уже посмотрели?")
+console.log(numberOfFilms)
